@@ -1,0 +1,77 @@
+{
+    "name": "Countly",
+    "description": "Countly is the best mobile analytics and marketing, web, desktop and IoT analytics platform for securely tracking customer journeys in your applications. Extend Countly via plugins to add new analytics and marketing capabilities and eliminate the need ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10143-countly.jpg",
+    "tags": [
+        "analysis",
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/countly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Countly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/10143-countly.jpg",
+            "humanURL": "https:\/\/count.ly\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/countly-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/countly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/cloud.count.ly"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.count.ly\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.count.ly\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/countly"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/resources.count.ly\/"
+        },
+        {
+            "type": "Email",
+            "url": "hello@count.ly"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/countly"
+        },
+        {
+            "type": "Road Map",
+            "url": "http:\/\/resources.count.ly\/docs\/countly-drill"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gocountly"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/count.ly\/"
+        }
+    ]
+}

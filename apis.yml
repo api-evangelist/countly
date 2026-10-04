@@ -39,7 +39,6 @@ apis:
   - name: Countly
     description: "Countly web analytics"
     humanURL: https://api.count.ly/reference
-    baseURL: https://api.count.ly/reference
     tags:
       - Open Source Projects
     properties:
